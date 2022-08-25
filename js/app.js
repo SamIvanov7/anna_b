@@ -10,6 +10,7 @@ window.onload = function() {
 				bounds: 'body',
 				inertia: true
 			})
+			
 		}
 
 	}, 200)
